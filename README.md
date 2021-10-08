@@ -52,7 +52,7 @@
 <p>First, click on the open in colab button present on the top center of the notebook.</p>
 <p><b>2) Kaggle Dataset</b></p>
 <p>Downlaod the dataset from kaggle through provided link.Then, connect to the runtime and execute the cell to mount the drive or upload the data file to the current runtime.</p>
-<p><b>3) Changing Cell Path</b></p>
+<p><b>3) Cell Path</b></p>
 <p>Finally, delete the path in the dataset loading cell and replace it with the path of your current data file. Run each cell to see the output below it.</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -65,32 +65,29 @@ Yash Patil | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Le
 <p> <i> Contact me for Data Science Project Collaborations</i></p>
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/almabetter/mycompany/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/AlmaBetter-School/)
-[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/almabetter)
-[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://docs.google.com/document/d/1oqq7SOX-VfSNAwPcCo4rS5dtf5fm57ZNVGBg0nDRIcI/edit?usp=sharing)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-patil-099)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash-datascience)
+[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yashpatil1208)
+[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1CI538uBeELAuvdA78x7RZ481Lqg8O_Xl/view?usp=sharing)
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2> :books: References</h2>
 <ul>
-  <li><p>Jonathan Lee, 'Notes on Naive Bayes Classifiers for Spam Filtering'. [Online].</p>
-      <p>Available: https://courses.cs.washington.edu/courses/cse312/18sp/lectures/naive-bayes/naivebayesnotes.pdf</p>
+  <li><p>Kumar, & Hota, Chinmay & Mahindru, Arvind & Neti, Lalita. (2019). Android Malware Prediction Using Extreme Learning Machine with Different Kernel Functions. 33-40. 10.1145/3340422.3343639. </p>
+      <p>Available: https://www.researchgate.net/publication/335212661_Android_Malware_Prediction_Using_Extreme_Learning_Machine_with_Different_Kernel_Functions</p>
   </li>
-  <li><p>Wikipedia.org, 'Naive Bayes Classifier'. [Online].</p>
-      <p>Available: https://en.wikipedia.org/wiki/Naive_Bayes_classifier</p>
+  <li><p>Data Champions Android App Malware Prediction [Online].</p>
+      <p>Available: https://www.kaggle.com/c/data-champions-android-permissions-malware</p>
   </li>
-  <li><p>Youtube.com, 'Naive Bayes for Spam Detection'. [Online].</p>
-      <p>Available: https://www.youtube.com/watch?v=8aZNAmWKGfs</p>
+  <li><p>XGBoost Documentation [Online].</p>
+      <p>Available: https://xgboost.readthedocs.io/en/latest/</p>
   </li>
-  <li><p>Youtube.com, 'Text Classification Using Naive Bayes'. [Online].</p>
-      <p>Available: https://www.youtube.com/watch?v=EGKeC2S44Rs</p>
+  <li><p>Medium.com, 'Eigen Decomposition and PCA'. [Online].</p>
+      <p>Available: https://blog.clairvoyantsoft.com/eigen-decomposition-and-pca-c50f4ca15501</p>
   </li>
   <li><p>Manisha-sirsat.blogspot.com, 'What is Confusion Matrix and Advanced Classification Metrics?'. [Online].</p>
       <p>Available: https://manisha-sirsat.blogspot.com/2019/04/confusion-matrix.html</p>
-  </li>
-  <li><p>Pythonforengineers.com, 'Build a Spam Filter'. [Online].</p>
-      <p>Available: https://www.pythonforengineers.com/build-a-spam-filter/</p>
   </li>
 </ul>
 
