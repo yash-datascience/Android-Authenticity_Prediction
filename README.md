@@ -47,22 +47,20 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :clipboard: Execution Instruction</h2>
-<p>The order of execution of the program files is as follows:</p>
-<p><b>1) spam_detector.py</b></p>
-<p>First, the spam_detector.py file must be executed to define all the functions and variables required for classification operations.</p>
-<p><b>2) train.py</b></p>
-<p>Then, the train.py file must be executed, which leads to the production of the model.txt file. 
-At the beginning of this file, the spam_detector has been imported so that the functions defined in it can be used.</p>
-<p><b>3) test.py</b></p>
-<p>Finally, the test.py file must be executed to create the result.txt and evaluation.txt files.
-Just like the train.py file, at the beginning of this file, the spam_detector has been imported so that the functions defined in it can be used.</p>
+<p>The order of execution of the colab notebook is as follows:</p>
+<p><b>1) TEAM_REALITY_ANDRIOD_AUTHENTICITY_PREDICTION.ipynb</b></p>
+<p>First, click on the open in colab button present on the top center of the notebook.</p>
+<p><b>2) Kaggle Dataset</b></p>
+<p>Downlaod the dataset from kaggle through provided link.Then, connect to the runtime and execute the cell to mount the drive or upload the data file to the current runtime.</p>
+<p><b>3) Changing Cell Path</b></p>
+<p>Finally, delete the path in the dataset loading cell and replace it with the path of your current data file. Run each cell to see the output below it.</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
 
-< Your Name > | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+Yash Patil | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
 
 <p> <i> Contact me for Data Science Project Collaborations</i></p>
 
